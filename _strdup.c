@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
-**_strdup - a function that  returns a pointer to a newly allocated 
+**_strdup - a function that  returns a pointer to a newly allocated
 * space in memory.
 *@str: a new string which is a duplicate of the string.
 * Return: duplicate string.
